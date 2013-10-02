@@ -5,7 +5,7 @@ Welcome to MobileProto! This is a simple HelloWorld app to make sure that your s
 
 First, fork this repo on Github and clone it to your computer.
 
-Forking
+Sporking
 ---
 To do this, first login to Github go to the [MobileProto Github page](http://github.com/mobileproto).
 
